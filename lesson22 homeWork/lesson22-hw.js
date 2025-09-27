@@ -79,6 +79,7 @@ switch (monthNumber) {
     alert;
     alert(`${monthNumber} is Fabruary`);
     break;
+
   case 3:
     alert(`${monthNumber} is March`);
     break;
