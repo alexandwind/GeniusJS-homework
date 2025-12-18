@@ -1,0 +1,20 @@
+.hidden {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+
+.toggle {
+  cursor: pointer;
+  font-weight: bold;
+  margin-right: 0.3em;
+  user-select: none;
+}
